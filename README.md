@@ -55,7 +55,7 @@ to the sample code.  We suggest making a small change to index.py first, so you 
 see how changes pushed to your project's repository are automatically picked up by your
 project pipeline and deployed to AWS Lambda and Amazon API Gateway. (You can watch the pipeline
 progress on your AWS CodeStar project dashboard.)Once you've seen how that works,
-start developing your own code, and have fun!
+start developing your own code, and have fun! and enjoy the process
 
 To run your tests locally, go to the root directory of the
 sample code and run the `python -m unittest discover tests` command, which
